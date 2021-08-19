@@ -1,2 +1,2 @@
 # Project-CAU_Data_Analysis
-TV프로그램이 상권에 미치는 영향 - Hosted by CAU
+통계분석공모전(TV프로그램이 골목상권에 미치는 영향 분석 및 예측) - Hosted by CAU
