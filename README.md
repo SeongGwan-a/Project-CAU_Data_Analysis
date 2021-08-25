@@ -27,6 +27,6 @@
 
 # 3. 데이터 분석
 
-※[분석보고서](https://github.com/SeongGwan-a/Project-CAU_Data_Analysis/blob/main/골목식당팀_분석보고서.pdf) 참고
+※[분석보고서](https://github.com/SeongGwan-a/Project-CAU_Data_Analysis/blob/main/%EA%B3%A8%EB%AA%A9%EB%8C%80%EC%9E%A5%ED%8C%80_%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) 참고
 
 ※[발표PPT](https://github.com/SeongGwan-a/Project-CAU_Data_Analysis/blob/main/골목식당팀_ppt.pdf) 참고
